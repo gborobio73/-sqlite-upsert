@@ -1,2 +1,2 @@
-# -sqlite-upsert
+# sqlite-upsert
 sqlite upsert
